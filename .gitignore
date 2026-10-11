@@ -1,0 +1,15 @@
+*.o
+*.out
+*.exe
+*.zip
+**/speller
+**/hello
+**/mario
+**/caesar
+**/cash
+**/plurality
+**/readability
+**/runoff
+**/tideman
+**/substitution
+**/recover
